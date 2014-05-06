@@ -2,7 +2,7 @@
 
 ## Install
 
-1. git clone git://github.com/huyng/bashmarks.git
+1. git clone https://github.com/deviantony/bashmarks.git
 2. make install
 3. source **~/.local/bin/bashmarks.sh** from within your **~.bash\_profile** or **~/.bashrc** file
 
